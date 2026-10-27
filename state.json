@@ -3,7 +3,7 @@
     "20261027153605-ge6cbr": {
       "design": {
         "style": "solid",
-        "pattern": "topo",
+        "pattern": "halftone",
         "layout": "diagonal"
       }
     }
