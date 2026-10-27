@@ -4,7 +4,7 @@
       "design": {
         "style": "paper",
         "pattern": "waves",
-        "layout": "wave"
+        "layout": "angled"
       }
     }
   }
