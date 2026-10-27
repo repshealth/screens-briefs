@@ -3,8 +3,8 @@
     "20261027153605-ge6cbr": {
       "design": {
         "style": "impact",
-        "pattern": "none",
-        "layout": "angled"
+        "pattern": "waves",
+        "layout": "below"
       }
     }
   }
