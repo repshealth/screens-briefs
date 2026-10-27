@@ -2,8 +2,8 @@
   "briefs": {
     "20261027153605-ge6cbr": {
       "design": {
-        "style": "duotone",
-        "pattern": "none",
+        "style": "impact",
+        "pattern": "waves",
         "layout": "angled"
       }
     }
