@@ -2,10 +2,9 @@
   "briefs": {
     "20261027153605-ge6cbr": {
       "design": {
-        "style": "impact",
+        "style": "solid",
         "pattern": "none",
-        "layout": "angled",
-        "tone": "medium"
+        "layout": "angled"
       }
     }
   }
