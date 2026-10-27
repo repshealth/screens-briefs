@@ -4,7 +4,7 @@
       "design": {
         "style": "solid",
         "pattern": "halftone",
-        "layout": "stagger"
+        "layout": "wave"
       }
     }
   }
