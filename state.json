@@ -6,6 +6,13 @@
         "pattern": "halftone",
         "layout": "wave"
       }
+    },
+    "20261104112209-agudpw": {
+      "design": {
+        "style": "duotone",
+        "pattern": "none",
+        "layout": "classic"
+      }
     }
   }
 }
