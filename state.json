@@ -11,7 +11,7 @@
       "design": {
         "style": "impact",
         "pattern": "grid",
-        "layout": "tilted"
+        "layout": "below"
       }
     }
   }
