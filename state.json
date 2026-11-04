@@ -11,7 +11,7 @@
       "design": {
         "style": "clean",
         "pattern": "grid",
-        "layout": "flow"
+        "layout": "bridge"
       }
     }
   }
