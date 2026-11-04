@@ -11,7 +11,7 @@
       "design": {
         "style": "clean",
         "pattern": "grid",
-        "layout": "angled"
+        "layout": "below"
       }
     }
   }
