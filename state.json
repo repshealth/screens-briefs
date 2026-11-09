@@ -16,8 +16,8 @@
     },
     "20261104175014-npdl6k": {
       "design": {
-        "style": "spotlight",
-        "pattern": "none",
+        "style": "paper",
+        "pattern": "topo",
         "layout": "classic"
       }
     }
