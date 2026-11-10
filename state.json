@@ -10,7 +10,7 @@
     "20261104112209-agudpw": {
       "design": {
         "style": "midnight",
-        "pattern": "none",
+        "pattern": "grid",
         "layout": "tilted"
       }
     },
