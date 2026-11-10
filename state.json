@@ -9,9 +9,9 @@
     },
     "20261104112209-agudpw": {
       "design": {
-        "style": "glow",
-        "pattern": "grid",
-        "layout": "angled"
+        "style": "impact",
+        "pattern": "halftone",
+        "layout": "centred"
       }
     },
     "20261104175014-npdl6k": {
