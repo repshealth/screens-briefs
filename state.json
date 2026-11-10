@@ -11,7 +11,7 @@
       "design": {
         "style": "glow",
         "pattern": "grid",
-        "layout": "below"
+        "layout": "span"
       }
     },
     "20261104175014-npdl6k": {
