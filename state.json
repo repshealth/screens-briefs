@@ -9,8 +9,8 @@
     },
     "20261104112209-agudpw": {
       "design": {
-        "style": "impact",
-        "pattern": "halftone",
+        "style": "glow",
+        "pattern": "grid",
         "layout": "wave"
       }
     },
